@@ -1,3 +1,5 @@
 salam donya
 
 khoobi?
+
+new file info.txt
